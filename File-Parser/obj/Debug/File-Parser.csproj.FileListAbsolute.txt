@@ -1,0 +1,36 @@
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\File-Parser.exe.config
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\File-Parser.exe
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\File-Parser.pdb
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\EPPlus.dll
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\EPPlus.Interfaces.dll
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\EPPlus.System.Drawing.dll
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\EPPlus.xml
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File_Parser.Properties.Resources.resources
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File-Parser.csproj.GenerateResource.Cache
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File-Parser.exe
+c:\users\rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File-Parser.pdb
+C:\Users\Rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File_Parser.frm_Main.resources
+C:\Users\Rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File_Parser.frm_Settings.resources
+C:\Users\Rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File-Parser.csprojResolveAssemblyReference.cache
+C:\Users\Rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\File-Parser.exe.manifest
+C:\Users\Rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\bin\Debug\File-Parser.application
+C:\Users\Rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File-Parser.exe.manifest
+C:\Users\Rocky\documents\visual studio 2017\Projects\File-Parser\File-Parser\obj\Debug\File-Parser.application
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\File-Parser.exe.config
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\File-Parser.exe.manifest
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\File-Parser.application
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\File-Parser.exe
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\File-Parser.pdb
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\EPPlus.dll
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\bin\Debug\EPPlus.xml
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File-Parser.csprojResolveAssemblyReference.cache
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File_Parser.frm_Main.resources
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File_Parser.frm_Settings.resources
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File_Parser.Properties.Resources.resources
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File-Parser.csproj.GenerateResource.Cache
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File-Parser.exe.manifest
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File-Parser.application
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File-Parser.exe
+C:\Users\rocky\Downloads\RockZ\BackUp_Files\Old-Projects\File-Parser\File-Parser\obj\Debug\File-Parser.pdb
